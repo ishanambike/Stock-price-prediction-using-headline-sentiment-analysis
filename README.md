@@ -16,4 +16,4 @@ Analysis on the following stocks:
 
 vaderSentiment and Hugging Face were used for sentiment analysis.
 
-Using the sentiments scores built Neural Network and XGBoost models. Also compared the models.
+Using the sentiment scores built Neural Network and XGBoost models. Also compared the model performances.
